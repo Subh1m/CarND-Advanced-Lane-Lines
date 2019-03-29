@@ -18,6 +18,11 @@ The goals / steps of this project are the following:
 ### Running Instructions:
 `CarND_Advanced_Lane_Finding.ipynb` contains the full workflow.
 
+### Output Videos:
+1. `project_video_output`
+2. `challenge_video_output`
+3. `harder_challenge_video`
+
 ### Camera Calibration
 ____________________
 #### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
@@ -126,3 +131,6 @@ ____________________
 ##### Future Enhancements:
 1. Adjustment of the brightness based on the intensity to create artificial lighting or darkness during opposite occuring conditions.
 2. Using the curvature of the road as a parameter to shift the lane finding vertices, region of interest in order to gain accuracy.
+
+## LICENSE:
+This project has been open-sourced basedon on MIT License. All Developers are free to use my code or make pull requests without any issue.
